@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="Qt_do_it">
+    <file>../../../../Desktop/close.png</file>
+    <file>../../../../Desktop/correct.jpg</file>
+    <file>../../../../Desktop/down.jpg</file>
+    <file>../../../../Desktop/up.jpg</file>
+  </qresource>
+</RCC>
